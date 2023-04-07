@@ -2,10 +2,6 @@
 
 This project aims to build a chatbot that can understand and respond to user input using natural language processing techniques. The chatbot is built using Pytorch, a popular deep learning library, and trained on a large corpus of text data.
 
-## Installation
-To install the necessary packages and dependencies for this project, run the following command:
-
-
 ## Training
 To train the chatbot on a new dataset, modify the data/corpus.txt file with the new training data and run the train.py script:
 
