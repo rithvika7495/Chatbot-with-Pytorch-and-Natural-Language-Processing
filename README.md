@@ -47,7 +47,7 @@ The models are trained on the dataset and optimized using techniques like backpr
 
 🚀 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/chatbot-pytorch-nlp.git`
+1. Clone the repository: `git clone https://github.com/rithvika7495/chatbot-pytorch-nlp.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Prepare the dataset or question-answer pairs for training (provide instructions or include sample data).
 4. Preprocess the data and tokenize the text using NLTK or spaCy (provide instructions or code snippets if needed).
